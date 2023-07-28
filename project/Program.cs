@@ -1,4 +1,5 @@
 ﻿// Prompting the user to input the marks for the assessments
+Console.WriteLine("Check whether you qualified or not: ");
 Console.Write("Enter the marks the student received for Test 1 out of a hundred: ");
 double test1Marks = Convert.ToDouble(Console.ReadLine());
 
