@@ -1,0 +1,15 @@
+/Users/hamesemokgadicomfort/Desktop/project/bin/Debug/net7.0/project
+/Users/hamesemokgadicomfort/Desktop/project/bin/Debug/net7.0/project.deps.json
+/Users/hamesemokgadicomfort/Desktop/project/bin/Debug/net7.0/project.runtimeconfig.json
+/Users/hamesemokgadicomfort/Desktop/project/bin/Debug/net7.0/project.dll
+/Users/hamesemokgadicomfort/Desktop/project/bin/Debug/net7.0/project.pdb
+/Users/hamesemokgadicomfort/Desktop/project/obj/Debug/net7.0/project.csproj.AssemblyReference.cache
+/Users/hamesemokgadicomfort/Desktop/project/obj/Debug/net7.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamesemokgadicomfort/Desktop/project/obj/Debug/net7.0/project.AssemblyInfoInputs.cache
+/Users/hamesemokgadicomfort/Desktop/project/obj/Debug/net7.0/project.AssemblyInfo.cs
+/Users/hamesemokgadicomfort/Desktop/project/obj/Debug/net7.0/project.csproj.CoreCompileInputs.cache
+/Users/hamesemokgadicomfort/Desktop/project/obj/Debug/net7.0/project.dll
+/Users/hamesemokgadicomfort/Desktop/project/obj/Debug/net7.0/refint/project.dll
+/Users/hamesemokgadicomfort/Desktop/project/obj/Debug/net7.0/project.pdb
+/Users/hamesemokgadicomfort/Desktop/project/obj/Debug/net7.0/project.genruntimeconfig.cache
+/Users/hamesemokgadicomfort/Desktop/project/obj/Debug/net7.0/ref/project.dll
